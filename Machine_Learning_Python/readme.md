@@ -34,7 +34,8 @@
  
     target to predict => cancer_type feature [0,1]  
     
-    ( prostate = 0 ,  NaN = 1 ) 
+     prostate = 0  
+     NaN = 1
     
     NaN is not for Not having a value, but is for 'normal' or non prostate 	
 
@@ -56,13 +57,12 @@
  
 
  number of input features neurons for input layer (that correspond to the number of features used)
- _______________________
+
  - 8 neurons   hidden layer
  - 16 neurons  hidden layer
  - 32 neurons  hidden layer
  - 16 neurons  hidden layer
- _______________________
- 1 neuron   output layer (for binary classification)
+ - 1 neuron   output layer (for binary classification)
 
 ### Model 3
  
@@ -80,12 +80,11 @@
 
     
  number of input features neurons for input layer (7)
- ___________________
- 16 neurons  hidden layer
- 32 neurons  hidden layer
- 16 neurons  hidden layer
- ___________________
- 1 neuron ouput layer  (for binary classification)
+ 
+ - 16 neurons  hidden layer
+ - 32 neurons  hidden layer
+ - 16 neurons  hidden layer
+ - 1 neuron ouput layer  (for binary classification)
  
  
  
