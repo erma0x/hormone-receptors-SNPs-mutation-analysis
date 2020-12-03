@@ -1,0 +1,16 @@
+
+    Report from the application of ML_2 and ML_3 models:
+    
+    - the number of hidden layers, and hidden layer neurons has no significant change on the accuracy of the model
+    - the accuracy found was ~62% of the model for the binary prediction of cancer_type features
+    - the problem into the model is that the majority of false positive is the case of false 0 labeled predictions (false assumption).
+    - changing the features used for the prediction has no increase on the accuracy, but could instead decrease it. 
+    
+    
+    in conclusion:
+    
+        the model has high accuracy generated, 
+        but very variable on the initial seed random number ,
+        tha accuracy range from 37% to 82% ( having tried it five times ).
+          
+        
