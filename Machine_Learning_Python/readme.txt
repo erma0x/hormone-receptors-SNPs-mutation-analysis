@@ -2,8 +2,8 @@
  Objective: try to identify features in the dataset for predict 
             one feature with binary classification 
             
-         I tried to classify 'cancer_type' over all the other features
-         I do not use all the features for the prediction, but a subset.
+ I tried to classify 'cancer_type' over all the other features
+ I do not use all the features for the prediction, but a subset.
          
          EXAMPLE
             input_features : ['ref', 'alt','functional_element','cell_line_cancer', 'scoreC']  
