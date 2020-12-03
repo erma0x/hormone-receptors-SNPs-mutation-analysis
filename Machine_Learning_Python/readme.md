@@ -1,7 +1,11 @@
 
- Objective: try to identify features in the dataset for predict 
+ ### Objective
+ 
+ try to identify features in the dataset for predict 
             one feature with binary classification 
             
+#### Workflow
+
  I tried to classify 'cancer_type' over all the other features
  I do not use all the features for the prediction, but a subset.
          
@@ -9,6 +13,10 @@
             input_features : ['ref', 'alt','functional_element','cell_line_cancer', 'scoreC']  
             
             output_feature : ['cancer_type'] (0,1) # binary classification
+
+
+
+### Products
 
  ML_1, ML_2 and ML_3 are the same analysis, but ML_1 is for explanation
  instead ML_2 and ML_3 it's for usability and for upgrading, they have little differences.
@@ -31,7 +39,7 @@
     NaN is not for Not having a value, but is for 'normal' or non prostate 	
 
  
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+### Model 2
 
  Neural Network MODEL_2 charachteristics (technical issues):
     
@@ -56,8 +64,8 @@
  _______________________
  1 neuron   output layer (for binary classification)
 
-=======================================================================
-
+### Model 3
+ 
  Neural Network MODEL_3 charachteristics (technical issues):
 
     model = Sequential()
