@@ -57,10 +57,10 @@
 
  number of input features neurons for input layer (that correspond to the number of features used)
  _______________________
- 8 neurons   hidden layer
- 16 neurons  hidden layer
- 32 neurons  hidden layer
- 16 neurons  hidden layer
+ - 8 neurons   hidden layer
+ - 16 neurons  hidden layer
+ - 32 neurons  hidden layer
+ - 16 neurons  hidden layer
  _______________________
  1 neuron   output layer (for binary classification)
 
