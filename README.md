@@ -1,1 +1,1 @@
-# Bioinformatics_Internship
+# Bioinformatics Internship
