@@ -1,6 +1,6 @@
 ## Bioinformatics Internship
 
-###     Ermano Buikis |  2019 CIBIO - University of Trento
+####     Ermano Buikis  |   CIBIO - University of Trento  |  2019-2020
 
 
 
