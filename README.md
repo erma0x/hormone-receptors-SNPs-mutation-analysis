@@ -1,8 +1,4 @@
-## Bioinformatics Internship 
-
-####     Ermano Buikis  |   CIBIO - University of Trento  |  2019-2020
-
-
+# Single Nucleotide Polymorphism mutation analysis: Human hormone receptors genes
 
 ![alt text](https://image.slidesharecdn.com/newinsightsintothehumangenomebyencode14-12-12-130202001029-phpapp02/95/new-insights-into-the-human-genome-by-encode-project-10-638.jpg?cb=1359763923)
 
